@@ -10,3 +10,6 @@ https://stackoverflow.com/questions/20537506/drools-how-to-iterate-list-and-add-
 
 #### Java append strings
 https://stackoverflow.com/questions/12899953/in-java-how-to-append-a-string-more-efficiently
+
+Convert list of strings to string
+https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
