@@ -13,3 +13,6 @@ https://stackoverflow.com/questions/12899953/in-java-how-to-append-a-string-more
 
 Convert list of strings to string
 https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a-string
+
+Docker initialize mysql
+https://stackoverflow.com/questions/29145370/docker-initialize-mysql-database-with-schema
