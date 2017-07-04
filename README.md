@@ -16,3 +16,11 @@ https://stackoverflow.com/questions/599161/best-way-to-convert-an-arraylist-to-a
 
 Docker initialize mysql
 https://stackoverflow.com/questions/29145370/docker-initialize-mysql-database-with-schema
+
+Squash git commits:
+$ git rebase -i HEAD~$NumberOfCommitsToSquash
+$ git push --force
+https://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-github-pull-request/16642628#16642628
+
+Undu git rebase
+https://stackoverflow.com/questions/134882/undoing-a-git-rebase
