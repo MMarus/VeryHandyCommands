@@ -24,3 +24,6 @@ https://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-
 
 Undu git rebase
 https://stackoverflow.com/questions/134882/undoing-a-git-rebase
+
+Fedora open spotify prerequisities:
+https://linuxacademy.zendesk.com/hc/en-us/articles/218203783-How-do-I-get-HTML5-playback-in-Firefox-on-Linux-
