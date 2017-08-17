@@ -18,6 +18,7 @@ Docker initialize mysql
 https://stackoverflow.com/questions/29145370/docker-initialize-mysql-database-with-schema
 
 Squash git commits: https://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-github-pull-request/16642628#16642628
+https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git
 ```bash
 $ git rebase -i HEAD~$NumberOfCommitsToSquash
 $ git push --force
