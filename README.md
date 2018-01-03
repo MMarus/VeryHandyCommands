@@ -1,6 +1,12 @@
 # VeryHandyCommands
 All commands that could be once very handy.
 
+
+Merge / convert multiple PDF files into one PDF
+https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf
+```
+$ pdfunite in-1.pdf in-2.pdf in-n.pdf out.pdf
+```
 C#
 http://stackoverflow.com/questions/5101986/iterate-over-pixels-of-an-image-with-emgu-cv
 Nice explanation and how to iterate very fast.
