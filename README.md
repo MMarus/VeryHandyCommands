@@ -1,6 +1,9 @@
 # VeryHandyCommands
 All commands that could be once very handy.
 
+How to load glove vectors through the gensim word2vec
+https://stackoverflow.com/questions/37793118/load-pretrained-glove-vectors-in-python
+
 
 Merge / convert multiple PDF files into one PDF
 https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf
