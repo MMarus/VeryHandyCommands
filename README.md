@@ -1,6 +1,14 @@
 # VeryHandyCommands
 All commands that could be once very handy.
 
+## Sync a fork
+```
+git fetch upstream
+git merge upstream/master
+git push
+```
+https://help.github.com/articles/syncing-a-fork/
+
 How to load glove vectors through the gensim word2vec
 https://stackoverflow.com/questions/37793118/load-pretrained-glove-vectors-in-python
 
