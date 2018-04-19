@@ -41,12 +41,18 @@ $ git rebase -i HEAD~$NumberOfCommitsToSquash
 $ git push --force
 ```
 
-
-Undu git rebase
+## Undu git rebase
 https://stackoverflow.com/questions/134882/undoing-a-git-rebase
 
-Fedora open spotify prerequisities:
+## Fedora open spotify prerequisities:
 https://linuxacademy.zendesk.com/hc/en-us/articles/218203783-How-do-I-get-HTML5-playback-in-Firefox-on-Linux-
 
-Archlinux unable to find lvm root partitions
+## Archlinux unable to find lvm root partitions
 https://superuser.com/questions/769047/unable-to-find-root-device-on-a-fresh-archlinux-install
+
+# Count the normo pages
+```
+# Merge all project files
+$ cat *.tex | tee output.tex
+$ echo "$(detex output.tex | wc -m) / 1800" | bc -l
+```
