@@ -38,6 +38,17 @@ https://stackoverflow.com/questions/134882/undoing-a-git-rebase
 
 # Misc
 
+## HAL - debugging - when nothing shows up:  
+Make sure you've added http://localhost:8888 as allowed origin and reload the server. Use one of of the following CLI commands to add allowed origins:
+
+### Standalone:
+
+```/core-service=management/management-interface=http-interface:list-add(name=allowed-origins,value=http://localhost:8888```
+
+### Domain:
+
+```/host=master/core-service=management/management-interface=http-interface:list-add(name=allowed-origins,value=http://localhost:8888```
+
 How to load glove vectors through the gensim word2vec  
 https://stackoverflow.com/questions/37793118/load-pretrained-glove-vectors-in-python
 
