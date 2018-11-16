@@ -80,6 +80,9 @@ https://linuxacademy.zendesk.com/hc/en-us/articles/218203783-How-do-I-get-HTML5-
 ## Archlinux unable to find lvm root partitions
 https://superuser.com/questions/769047/unable-to-find-root-device-on-a-fresh-archlinux-install
 
+##  Idea distraction free mode remove the left margin
+https://stackoverflow.com/questions/33151591/intellij-14-1-distraction-free-mode-has-a-huge-gap-on-the-left-side-of-the-scree/33159047
+
 # Count the normo pages
 ```
 # Merge all project files
