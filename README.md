@@ -83,6 +83,9 @@ https://superuser.com/questions/769047/unable-to-find-root-device-on-a-fresh-arc
 ##  Idea distraction free mode remove the left margin
 https://stackoverflow.com/questions/33151591/intellij-14-1-distraction-free-mode-has-a-huge-gap-on-the-left-side-of-the-scree/33159047
 
+# How to obtain method parameter names (make sure to use correct way to enable this in maven) java 8+
+https://stackoverflow.com/questions/2237803/can-i-obtain-method-parameter-name-using-java-reflection
+
 # Count the normo pages
 ```
 # Merge all project files
