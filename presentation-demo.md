@@ -114,7 +114,7 @@ public class Greeter {
 Greeter greeter;
 
 @GET
-@Path("loepfe")
+@Path("/loepfe")
 @Produces(MediaType.TEXT_PLAIN)
 public String helloLoepfe() {
     return greeter.greet();
