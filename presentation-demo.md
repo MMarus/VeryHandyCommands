@@ -81,6 +81,8 @@ public class Fruit extends PanacheEntity {
 ## Add /fruits to the GreetingResource
 ```java
 @GET
+@Path("/fruits")
+@Produces(MediaType.APPLICATION_JSON)
 public List<Fruit> get() {
     return Fruit.listAll(Sort.by("name"));
 }
