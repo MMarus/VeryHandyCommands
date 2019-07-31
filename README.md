@@ -92,3 +92,5 @@ https://stackoverflow.com/questions/2237803/can-i-obtain-method-parameter-name-u
 $ cat *.tex | tee output.tex
 $ echo "$(detex output.tex | wc -m) / 1800" | bc -l
 ```
+# remove \ + \n from bash history (remove the command splits on new lines)
+sed ':a;N;$!ba;s/\\\n/ /g' .zsh_history1
