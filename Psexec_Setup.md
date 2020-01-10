@@ -10,6 +10,9 @@ olicy /t REG_DWORD /d 1 /f
 # add firewall rule for the psexec port
 netsh advfirewall firewall add rule dir=in action=allow protocol=TCP localport=445 name="Allow_TCP
 -445-For-PSEXEC"
+
+# then try to execute some script
+.\PsExec.exe \\machine -u <user> -p <pass> -s -i -d powershell -ExecutionPolicy Bypass "script.ps1"
 ```
 
 More info:
