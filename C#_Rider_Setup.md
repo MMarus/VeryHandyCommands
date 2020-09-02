@@ -5,4 +5,5 @@
 4. setx path "%path%;D:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64"
 5. setx NUGET_PACKAGES "D:\.nuget\packages"
 6. setx NuGetCachePath "D:\.nuget\packages"
+7. setx path "%path%;C:\Users\<user>\AppData\Roaming\Python\Python37\Scripts"
 ```
