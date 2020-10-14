@@ -1,1 +1,1 @@
-sudo echo "$user ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers.d/90-cloudimg-ubuntu #passwordless sudo
+echo "$user ALL=(ALL) NOPASSWD:ALL" | sudo tee -a /etc/sudoers.d/90-cloudimg-ubuntu #passwordless sudo
