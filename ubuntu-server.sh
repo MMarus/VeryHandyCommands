@@ -1,4 +1,4 @@
-# do not wait while the network comes online during boot
+# do not wait while the network comes online during boot - would slow down the boot
 systemctl disable systemd-networkd-wait-online.service
 systemctl mask systemd-networkd-wait-online.service 
 
