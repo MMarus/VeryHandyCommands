@@ -14,3 +14,6 @@ sudo add-apt-repository \
    stable"
 sudo apt-get update -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y
+
+# install-docker on Win & the Ubuntu in wsl
+https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
