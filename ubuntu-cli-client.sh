@@ -17,3 +17,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 # install-docker on Win & the Ubuntu in wsl
 https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
+
+
+# developement env - .net core sdk on ubuntu
+https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
