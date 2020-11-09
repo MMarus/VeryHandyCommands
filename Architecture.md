@@ -9,3 +9,5 @@ https://eventuate.io/exampleapps.html
 
 ## Command (write) Query (read) Responsibility Segregation:
 https://martinfowler.com/bliki/CQRS.html
+
+https://github.com/microservices-patterns/ftgo-application#chapter-7-implementing-queries-in-a-microservice-architecture
